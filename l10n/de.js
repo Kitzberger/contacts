@@ -139,7 +139,7 @@ OC.L10N.register(
     "Property not found" : "Merkmal nicht gefunden",
     " Missing IM parameter for: " : "Fehlender IM-Parameter für:",
     "Unknown IM: " : "IM unbekannt:",
-    "{name}'s Birthday" : "Geburtstag von {name}",
+    "{name}'s Birthday" : "{name}",
     "Error creating address book" : "Fehler beim Anlegen eines Adressbuches",
     "The \"%s\" backend does not support deleting address books" : "Das \"%s\"-Backend unterstützt das Löschen von Adressbüchern nicht.",
     "You do not have permissions to delete the \"%s\" address book" : "Du hast nicht die erforderlichen Rechte, das \"%s\" Adressbuch zu löschen",
